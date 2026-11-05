@@ -10,6 +10,7 @@
   "dependencies": {
     "baileys": "npm:baileys-xdk",
     "express": "^4.18.2",
+    "body-parser": "^1.20.3",
     "fs-extra": "^11.2.0",
     "pino": "^8.17.0",
     "jimp": "^0.22.12",
@@ -42,8 +43,8 @@
     "bot",
     "multi-device",
     "baileys",
-    "malvin-xd"
+    "Ghost-xd"
   ],
-  "author": "Mr XDKING",
+  "author": "Mr KING",
   "license": "MIT"
 }
