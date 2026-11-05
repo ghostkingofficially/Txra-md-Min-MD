@@ -41,7 +41,7 @@ This project is licensed under the MIT License.
 
 **Ghost King (XdKing)**
 
-- GitHub: [@XdKing2](https://github.com/ghostking.officially)
+- GitHub: [@Ghost-King](https://github.com/ghostkingofficially)
 - WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029Vb8fYE9GJP88ENgYpR2m)
 
 ## 💬 Support
